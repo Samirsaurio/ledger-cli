@@ -13,7 +13,7 @@ The first step is have both drewr3.dat and ledger.py in the same directory.
 ## COMMANDS
 This implementations supports two commands:
 + print: Print the full file and transaction without comments, just the needed information.
-+ register: To show all transactions and a running total
++ register: To show all transactions and a running total. Although there are problems with ```tithe``` operations for now, hope to fix it in a later update.
 
 ## ARGUMENTS
 + --f: Write the name of your file next to it so it can be opened and read by ledger.py

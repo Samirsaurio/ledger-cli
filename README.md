@@ -16,7 +16,7 @@ This implementations supports two commands:
 + register: To show all transactions and a running total
 
 ## ARGUMENTS
---f: Write the name of your file next to it so it can be opened and read by ledger.py
++ --f: Write the name of your file next to it so it can be opened and read by ledger.py
 
 ## USAGE
 ```python3 ledger.py [command] --f [filename]```
